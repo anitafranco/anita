@@ -1,0 +1,15 @@
+body {
+    background-color: #87CEFA;
+
+}
+
+.class2 {
+    background-color: #1E90FF;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.class1 {
+    width: 20%;
+}
